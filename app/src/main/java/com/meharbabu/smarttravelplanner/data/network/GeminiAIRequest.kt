@@ -1,0 +1,13 @@
+package com.meharbabu.smarttravelplanner.data.network
+
+data class GeminiAIRequest(
+    val contents: List<Content>
+) {
+    data class Content(
+        val parts: List<Part>
+    )
+
+    data class Part(
+        val text: String
+    )
+}
