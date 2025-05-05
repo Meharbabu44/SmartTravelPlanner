@@ -35,7 +35,7 @@ AI-powered travel itinerary generator that helps users plan personalized trips i
 ## 📦 Tech Stack
 
 - **Language**: Kotlin
-- **Architecture**: MVVM
+- **Architecture**: MVVM + Clean Architecture
 - **UI**: Jetpack Compose
 - **AI Integration**: Gemini API
 - **State Management**: Kotlin Flows
