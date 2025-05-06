@@ -26,9 +26,15 @@ AI-powered travel itinerary generator that helps users plan personalized trips i
 
 ## 📱 Screenshots
 
-![Enter Travel Details Screen](https://github.com/user-attachments/assets/26ac7c00-d5c6-4e88-81d6-7f394e9157b1)
+### 📱 Screenshots
 
-![Itinerary Screen](https://github.com/user-attachments/assets/3cc8c9b4-1a05-4dd5-ae56-0511686b9644)
+<p align="center">
+  <img src="assets/home_screen.png" alt="Home Screen" width="300"/>
+</p>
+
+<p align="center">
+  <img src="assets/itinerary_screen.png" alt="Itinerary Screen" width="300"/>
+</p>
 
 ---
 
