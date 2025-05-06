@@ -29,11 +29,11 @@ AI-powered travel itinerary generator that helps users plan personalized trips i
 ### 📱 Screenshots
 
 <p align="center">
-  <img src="assets/home_screen.png" alt="Home Screen" width="300"/>
+  <img src="assets/home_screen.jpg" alt="Home Screen" width="300"/>
 </p>
 
 <p align="center">
-  <img src="assets/itinerary_screen.png" alt="Itinerary Screen" width="300"/>
+  <img src="assets/itinerary_screen.jpg" alt="Itinerary Screen" width="300"/>
 </p>
 
 ---
